@@ -1,0 +1,7 @@
+begin
+push 2
+push 1
+MINUS
+push 3
+MINUS
+end
